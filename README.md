@@ -44,7 +44,7 @@ half mean= [1.0, 1.0, -0.5, -1.0, 1.0, 0.5, 0.0, 1.0]
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## methods
+## methods of HLrainflow.HL
 |method|arguments|return var.|contents|
 |------|---------|-----------|--------|
 |SetPeak|peak:list|none|Set the peak:list to self.Peak|
